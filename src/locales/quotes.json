@@ -759,5 +759,15 @@
       "en": "en/that_damn_random_with_his_arcane_face_and_his_0_14_singed_top_got_banned_for_14_days.wav",
       "fr": "fr/ce_putain_de_random_avec_sa_gueule_d'arcane_et_son_singed_top_en_0_14_a_ete_banni_14_jours.wav"
     }
+  },
+  {
+    "languages": {
+      "en": "The Château de Soupex really exists.",
+      "fr": "Le château de Soupex existe vraiment."
+    },
+    "soundpaths": {
+      "en": "en/the_chateau_de_soupex_really_exists.wav",
+      "fr": "fr/le_chateau_de_soupex_existe_vraiment.wav"
+    }
   }
 ]
