@@ -745,5 +745,19 @@
       "en": "en/it's_only_your_16th_christmas_aram_in_a_row.wav",
       "fr": "fr/ce_n'est_que_ta_16e_aram_de_noel_d'affilee.wav"
     }
+  },
+  {
+    "languages": {
+      "en": "That damn random with his Arcane face and his 0/14 Singed top got banned for 14 days.",
+      "fr": "Ce putain de random avec sa gueule d'Arcane et son Singed top en 0/14 a été banni 14 jours."
+    },
+    "spoken": {
+      "en": "That damn random with his Arcane face and his zero and fourteen Singed top got banned for fourteen days.",
+      "fr": "Ce putain de random avec sa gueule d'Arcane et son Singed top en zéro quatorze a été banni quatorze jours."
+    },
+    "soundpaths": {
+      "en": "en/that_damn_random_with_his_arcane_face_and_his_0_14_singed_top_got_banned_for_14_days.wav",
+      "fr": "fr/ce_putain_de_random_avec_sa_gueule_d'arcane_et_son_singed_top_en_0_14_a_ete_banni_14_jours.wav"
+    }
   }
 ]
