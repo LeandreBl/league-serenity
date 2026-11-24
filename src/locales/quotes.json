@@ -24,6 +24,9 @@
       "en": "The flash in you did was worth it.",
       "fr": "Ce flash in que tu as fait en valait la peine."
     },
+    "spoken": {
+      "fr": "Ce flache inne que tu as fait en valait la peine."
+    },
     "soundpaths": {
       "en": "en/the_flash_in_you_did_was_worth_it.wav",
       "fr": "fr/ce_flash_in_que_tu_as_fait_en_valait_la_peine.wav"
@@ -33,6 +36,9 @@
     "languages": {
       "en": "You picking Vayne top against Irelia was not gay.",
       "fr": "Pick Vayne top contre Irelia n'était pas gay."
+    },
+    "spoken": {
+      "fr": "Pique Veine tope contre Irelia n'était pas gay."
     },
     "soundpaths": {
       "en": "en/you_picking_vayne_top_against_irelia_was_not_gay.wav",
@@ -64,6 +70,9 @@
       "en": "You are not feeding, you are just trying to make the game more interesting.",
       "fr": "Tu ne feeds pas, tu essaies juste de rendre la partie plus intéressante."
     },
+    "spoken": {
+      "fr": "Tu ne fides pas, tu essaies juste de rendre la partie plus intéressante."
+    },
     "soundpaths": {
       "en": "en/you_are_not_feeding_you_are_just_trying_to_make_the_game_more_interesting.wav",
       "fr": "fr/tu_ne_feeds_pas_tu_essaies_juste_de_rendre_la_partie_plus_interessante.wav"
@@ -84,6 +93,9 @@
       "en": "You are not flaming, you are just trying to make your team better.",
       "fr": "Tu ne flames pas, tu essaies juste de rendre ton équipe meilleure."
     },
+    "spoken": {
+      "fr": "Tu ne flèmes pas, tu essaies juste de rendre ton équipe meilleure."
+    },
     "soundpaths": {
       "en": "en/you_are_not_flaming_you_are_just_trying_to_make_your_team_better.wav",
       "fr": "fr/tu_ne_flames_pas_tu_essaies_juste_de_rendre_ton_equipe_meilleure.wav"
@@ -94,6 +106,9 @@
       "en": "That move you did was awesome. If your parents understood the game, they would have been proud.",
       "fr": "Ce move que tu as fait était génial. Si tes parents comprenaient le jeu, ils auraient été fiers."
     },
+    "spoken": {
+      "fr": "Ce mouve que tu as fait était génial. Si tes parents comprenaient le jeu, ils auraient été fiers."
+    },
     "soundpaths": {
       "en": "en/that_move_you_did_was_awesome_if_your_parents_understood_the_game_they_would_have_been_proud.wav",
       "fr": "fr/ce_move_que_tu_as_fait_etait_genial_si_tes_parents_comprenaient_le_jeu_ils_auraient_ete_fiers.wav"
@@ -103,6 +118,9 @@
     "languages": {
       "en": "Your friends and family appreciate your humorous League of Legends memes.",
       "fr": "Tes amis et ta famille apprécient tes memes humoristiques sur League of Legends."
+    },
+    "spoken": {
+      "fr": "Tes amis et ta famille apprécient tes mîmes humoristiques sur League of Legends."
     },
     "soundpaths": {
       "en": "en/your_friends_and_family_appreciate_your_humorous_league_of_legends_memes.wav",
@@ -154,6 +172,9 @@
       "en": "You were born to gap your laner.",
       "fr": "Tu es né pour gap ton laner."
     },
+    "spoken": {
+      "fr": "Tu es né pour gape ton lèneur."
+    },
     "soundpaths": {
       "en": "en/you_were_born_to_gap_your_laner.wav",
       "fr": "fr/tu_es_ne_pour_gap_ton_laner.wav"
@@ -174,6 +195,10 @@
       "en": "A shower is an average loss of 13 L.P.",
       "fr": "Une douche est une perte moyenne de 13 L.P."
     },
+    "spoken": {
+      "en": "A shower is an average loss of 13 L P.",
+      "fr": "Une douche est une perte moyenne de treize elle pé."
+    },
     "soundpaths": {
       "en": "en/a_shower_is_an_average_loss_of_13_l_p.wav",
       "fr": "fr/une_douche_est_une_perte_moyenne_de_13_l_p.wav"
@@ -193,6 +218,9 @@
     "languages": {
       "en": "Your friends and family understand what an outplay is.",
       "fr": "Tes amis et ta famille comprennent ce qu'est un outplay."
+    },
+    "spoken": {
+      "fr": "Tes amis et ta famille comprennent ce qu'est un aoute-plé."
     },
     "soundpaths": {
       "en": "en/your_friends_and_family_understand_what_an_outplay_is.wav",
@@ -224,6 +252,9 @@
       "en": "If your crush understood the game, she would have been impressed.",
       "fr": "Si ta crush comprenait le jeu, elle aurait été impressionnée."
     },
+    "spoken": {
+      "fr": "Si ta creuche comprenait le jeu, elle aurait été impressionnée."
+    },
     "soundpaths": {
       "en": "en/if_your_crush_understood_the_game_she_would_have_been_impressed.wav",
       "fr": "fr/si_ta_crush_comprenait_le_jeu_elle_aurait_ete_impressionnee.wav"
@@ -244,6 +275,9 @@
       "en": "Your Porofessor winrate stats are not accurate.",
       "fr": "Tes stats de winrate sur Porofessor sont erronées."
     },
+    "spoken": {
+      "fr": "Tes stattes de ouine-rète sur Poro-fessor sont erronées."
+    },
     "soundpaths": {
       "en": "en/your_porofessor_winrate_stats_are_not_accurate.wav",
       "fr": "fr/tes_stats_de_winrate_sur_porofessor_sont_erronees.wav"
@@ -253,6 +287,9 @@
     "languages": {
       "en": "That teammate you flamed deserved it.",
       "fr": "Ce mate que tu as flame le méritait."
+    },
+    "spoken": {
+      "fr": "Ce mète que tu as flèmé le méritait."
     },
     "soundpaths": {
       "en": "en/that_teammate_you_flamed_deserved_it.wav",

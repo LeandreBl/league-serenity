@@ -1,2 +1,0 @@
-coqui-tts[codec]
-faster-whisper
