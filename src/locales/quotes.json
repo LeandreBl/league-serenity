@@ -489,9 +489,6 @@
       "en": "Your support bought control wards.",
       "fr": "Ton support a acheté des pink wards."
     },
-    "spoken": {
-      "fr": "Ton support a acheté des pinque ouardes."
-    },
     "soundpaths": {
       "en": "en/your_support_bought_control_wards.wav",
       "fr": "fr/ton_support_a_achete_des_pink_wards.wav"
