@@ -637,5 +637,113 @@
       "en": "en/your_league_of_legends_client_launches_on_the_first_try.wav",
       "fr": "fr/ton_client_league_of_legends_se_lance_du_premier_coup.wav"
     }
+  },
+  {
+    "languages": {
+      "en": "You touched grass this week. It was green, like your match history.",
+      "fr": "Tu as touché de l'herbe cette semaine. Elle était verte, comme ton historique."
+    },
+    "soundpaths": {
+      "en": "en/you_touched_grass_this_week_it_was_green_like_your_match_history.wav",
+      "fr": "fr/tu_as_touche_de_l'herbe_cette_semaine_elle_etait_verte_comme_ton_historique.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You know what the sun looks like.",
+      "fr": "Tu sais à quoi ressemble le soleil."
+    },
+    "soundpaths": {
+      "en": "en/you_know_what_the_sun_looks_like.wav",
+      "fr": "fr/tu_sais_a_quoi_ressemble_le_soleil.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your last shower was today.",
+      "fr": "Ta dernière douche date d'aujourd'hui."
+    },
+    "soundpaths": {
+      "en": "en/your_last_shower_was_today.wav",
+      "fr": "fr/ta_derniere_douche_date_d'aujourd'hui.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your teammates can't smell you through the screen.",
+      "fr": "Tes coéquipiers ne sentent pas ton odeur à travers l'écran."
+    },
+    "soundpaths": {
+      "en": "en/your_teammates_can't_smell_you_through_the_screen.wav",
+      "fr": "fr/tes_coequipiers_ne_sentent_pas_ton_odeur_a_travers_l'ecran.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Deodorant counts as a shower.",
+      "fr": "Le déodorant compte comme une douche."
+    },
+    "soundpaths": {
+      "en": "en/deodorant_counts_as_a_shower.wav",
+      "fr": "fr/le_deodorant_compte_comme_une_douche.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Summoner's Rift grass counts as real grass.",
+      "fr": "L'herbe de la Faille compte comme de l'herbe réelle."
+    },
+    "soundpaths": {
+      "en": "en/summoner's_rift_grass_counts_as_real_grass.wav",
+      "fr": "fr/l'herbe_de_la_faille_compte_comme_de_l'herbe_reelle.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You don't wake up at dinner time, dinner was moved to when you wake up.",
+      "fr": "Ce n'est pas toi qui te réveilles à l'heure du dîner, c'est le dîner qui a été placé à l'heure de ton réveil."
+    },
+    "soundpaths": {
+      "en": "en/you_don't_wake_up_at_dinner_time_dinner_was_moved_to_when_you_wake_up.wav",
+      "fr": "fr/ce_n'est_pas_toi_qui_te_reveilles_a_l'heure_du_diner_c'est_le_diner_qui_a_ete_place_a_l'heure_de_ton_reveil.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "People outside don't look at you strangely. You are just like them.",
+      "fr": "Les gens dehors ne te regardent pas bizarrement. Tu es comme eux."
+    },
+    "soundpaths": {
+      "en": "en/people_outside_don't_look_at_you_strangely_you_are_just_like_them.wav",
+      "fr": "fr/les_gens_dehors_ne_te_regardent_pas_bizarrement_tu_es_comme_eux.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your sleep schedule is healthy. 4am to 1pm is a routine.",
+      "fr": "Ton rythme de sommeil est sain. 4h-13h, c'est une routine."
+    },
+    "spoken": {
+      "en": "Your sleep schedule is healthy. Four a.m. to one p.m. is a routine.",
+      "fr": "Ton rythme de sommeil est sain. Quatre heures, treize heures, c'est une routine."
+    },
+    "soundpaths": {
+      "en": "en/your_sleep_schedule_is_healthy_4am_to_1pm_is_a_routine.wav",
+      "fr": "fr/ton_rythme_de_sommeil_est_sain_4h-13h_c'est_une_routine.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "It's only your 16th Christmas ARAM in a row.",
+      "fr": "Ce n'est que ta 16e ARAM de Noël d'affilée."
+    },
+    "spoken": {
+      "en": "It's only your sixteenth Christmas air-am in a row.",
+      "fr": "Ce n'est que ta seizième aram de Noël d'affilée."
+    },
+    "soundpaths": {
+      "en": "en/it's_only_your_16th_christmas_aram_in_a_row.wav",
+      "fr": "fr/ce_n'est_que_ta_16e_aram_de_noel_d'affilee.wav"
+    }
   }
 ]
