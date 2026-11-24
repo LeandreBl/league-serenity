@@ -513,6 +513,9 @@
       "en": "Your game chat was kind. Nobody mentioned your mother.",
       "fr": "Le chat de ta partie était bienveillant. Personne n'a mentionné ta mère."
     },
+    "spoken": {
+      "fr": "Le tchat de ta partie était bienveillant. Personne n'a mentionné ta mère."
+    },
     "soundpaths": {
       "en": "en/your_game_chat_was_kind_nobody_mentioned_your_mother.wav",
       "fr": "fr/le_chat_de_ta_partie_etait_bienveillant_personne_n'a_mentionne_ta_mere.wav"
@@ -549,9 +552,6 @@
     "languages": {
       "en": "Your reports were processed. Riot thanks you personally.",
       "fr": "Les reports que tu as envoyés ont été traités. Riot te remercie personnellement."
-    },
-    "spoken": {
-      "fr": "Les ripors que tu as envoyés ont été traités. Raïotte te remercie personnellement."
     },
     "soundpaths": {
       "en": "en/your_reports_were_processed_riot_thanks_you_personally.wav",
