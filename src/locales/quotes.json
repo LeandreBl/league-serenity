@@ -362,5 +362,201 @@
       "en": "en/that_teammate_you_flamed_deserved_it.wav",
       "fr": "fr/ce_mate_que_tu_as_flame_le_meritait.wav"
     }
+  },
+  {
+    "languages": {
+      "en": "Your jungler did not forget that top lane exists.",
+      "fr": "Ton jungler n'a pas oublié que la toplane existe."
+    },
+    "spoken": {
+      "en": "Your jungler... did not forget... that top lane exists.",
+      "fr": "Ton djeungleur... n'a pas oublié... que la tope-laine existe."
+    },
+    "soundpaths": {
+      "en": "en/your_jungler_did_not_forget_that_top_lane_exists.wav",
+      "fr": "fr/ton_jungler_n'a_pas_oublie_que_la_toplane_existe.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your bot lane Draven did not flash in on your cannon minion in mid.",
+      "fr": "Ton Draven bot n'a pas flash in ton sbire canon au mid."
+    },
+    "spoken": {
+      "en": "Your bot lane Draven... did not flash in... on your cannon minion in mid.",
+      "fr": "Ton Dravène bote... n'a pas flache inne... ton sbire canon au mide."
+    },
+    "soundpaths": {
+      "en": "en/your_bot_lane_draven_did_not_flash_in_on_your_cannon_minion_in_mid.wav",
+      "fr": "fr/ton_draven_bot_n'a_pas_flash_in_ton_sbire_canon_au_mid.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your jungler saw your pings and ganked your lane.",
+      "fr": "Ton jungler a vu et a gank ta lane après tes pings."
+    },
+    "spoken": {
+      "en": "Your jungler... saw your pings... and ganked your lane.",
+      "fr": "Ton djeungleur... a vu... et a ganke ta laine... après tes pings."
+    },
+    "soundpaths": {
+      "en": "en/your_jungler_saw_your_pings_and_ganked_your_lane.wav",
+      "fr": "fr/ton_jungler_a_vu_et_a_gank_ta_lane_apres_tes_pings.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "That missed smite on the Rift Scuttler was not your fault.",
+      "fr": "Ce smite raté sur le Carapateur n'était pas de ta faute."
+    },
+    "spoken": {
+      "en": "That missed smite... on the Rift Scuttler... was not your fault.",
+      "fr": "Ce smaïte raté... sur le Carapateur... n'était pas de ta faute."
+    },
+    "soundpaths": {
+      "en": "en/that_missed_smite_on_the_rift_scuttler_was_not_your_fault.wav",
+      "fr": "fr/ce_smite_rate_sur_le_carapateur_n'etait_pas_de_ta_faute.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your jungler did not flash smite the cannon minion in mid after a failed dive.",
+      "fr": "Ton jungler n'a pas flash smite le creep canon au mid après un dive raté."
+    },
+    "spoken": {
+      "en": "Your jungler... did not flash smite... the cannon minion in mid... after a failed dive.",
+      "fr": "Ton djeungleur... n'a pas flache smaïte... le crîpe canon au mide... après un daïve raté."
+    },
+    "soundpaths": {
+      "en": "en/your_jungler_did_not_flash_smite_the_cannon_minion_in_mid_after_a_failed_dive.wav",
+      "fr": "fr/ton_jungler_n'a_pas_flash_smite_le_creep_canon_au_mid_apres_un_dive_rate.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "The 15 minute surrender votes from your Nunu top were a mistake.",
+      "fr": "Les /ff à 15 min de ton Nunu top étaient une erreur."
+    },
+    "spoken": {
+      "en": "The fifteen minute surrender votes... from your Nunu top... were a mistake.",
+      "fr": "Les èf-èf à quinze minutes... de ton Nounou tope... étaient une erreur."
+    },
+    "soundpaths": {
+      "en": "en/the_15_minute_surrender_votes_from_your_nunu_top_were_a_mistake.wav",
+      "fr": "fr/les_ff_a_15_min_de_ton_nunu_top_etaient_une_erreur.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You got a LOSS PREVENTED.",
+      "fr": "Tu as eu une LOSS PREVENTED."
+    },
+    "spoken": {
+      "en": "You got... a loss prevented.",
+      "fr": "Tu as eu... une losse privènetède."
+    },
+    "soundpaths": {
+      "en": "en/you_got_a_loss_prevented.wav",
+      "fr": "fr/tu_as_eu_une_loss_prevented.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "That teammate who went 0/27 on Teemo support got banned.",
+      "fr": "Ce mate qui a fait 0/27 avec Teemo support a été ban."
+    },
+    "spoken": {
+      "en": "That teammate... who went zero and twenty-seven... on Teemo support... got banned.",
+      "fr": "Ce mète... qui a fait zéro, vingt-sept... avec Timo support... a été banne."
+    },
+    "soundpaths": {
+      "en": "en/that_teammate_who_went_0_27_on_teemo_support_got_banned.wav",
+      "fr": "fr/ce_mate_qui_a_fait_0_27_avec_teemo_support_a_ete_ban.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your main was not nerfed.",
+      "fr": "Ton main n'a pas été nerf."
+    },
+    "spoken": {
+      "en": "Your main... was not nerfed.",
+      "fr": "Ton mèïne... n'a pas été neurfe."
+    },
+    "soundpaths": {
+      "en": "en/your_main_was_not_nerfed.wav",
+      "fr": "fr/ton_main_n'a_pas_ete_nerf.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your mouse did not click on its own.",
+      "fr": "Ta souris n'a pas cliqué toute seule."
+    },
+    "spoken": {
+      "en": "Your mouse... did not click... on its own.",
+      "fr": "Ta souris... n'a pas cliqué... toute seule."
+    },
+    "soundpaths": {
+      "en": "en/your_mouse_did_not_click_on_its_own.wav",
+      "fr": "fr/ta_souris_n'a_pas_clique_toute_seule.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your ping is stable.",
+      "fr": "Ton ping est stable."
+    },
+    "spoken": {
+      "en": "Your ping... is stable.",
+      "fr": "Ton ping... est stable."
+    },
+    "soundpaths": {
+      "en": "en/your_ping_is_stable.wav",
+      "fr": "fr/ton_ping_est_stable.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You can still come back in this game at 0/40.",
+      "fr": "Tu peux encore come back cette game en 0/40."
+    },
+    "spoken": {
+      "en": "You can still come back... in this game... at zero and forty.",
+      "fr": "Tu peux encore... come back cette guéïme... en zéro, quarante."
+    },
+    "soundpaths": {
+      "en": "en/you_can_still_come_back_in_this_game_at_0_40.wav",
+      "fr": "fr/tu_peux_encore_come_back_cette_game_en_0_40.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You slept well last night after a day of 13 wins and 2 losses.",
+      "fr": "Tu as bien dormi cette nuit après une journée de 13 victoires pour 2 défaites."
+    },
+    "spoken": {
+      "en": "You slept well last night... after a day... of thirteen wins... and two losses.",
+      "fr": "Tu as bien dormi cette nuit... après une journée... de treize victoires... pour deux défaites."
+    },
+    "soundpaths": {
+      "en": "en/you_slept_well_last_night_after_a_day_of_13_wins_and_2_losses.wav",
+      "fr": "fr/tu_as_bien_dormi_cette_nuit_apres_une_journee_de_13_victoires_pour_2_defaites.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "This last Arena of the night will be a win.",
+      "fr": "Cette dernière Arena de la soirée sera une win."
+    },
+    "spoken": {
+      "en": "This last Arena of the night... will be a win.",
+      "fr": "Cette dernière Aréna de la soirée... sera une ouine."
+    },
+    "soundpaths": {
+      "en": "en/this_last_arena_of_the_night_will_be_a_win.wav",
+      "fr": "fr/cette_derniere_arena_de_la_soiree_sera_une_win.wav"
+    }
   }
 ]

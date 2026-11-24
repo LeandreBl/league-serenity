@@ -18,7 +18,7 @@ VOICE_SETTINGS = {"stability": 0.8, "similarity_boost": 0.75, "style": 0.0, "spe
 
 
 def soundpath_of(text, lang):
-    soundpath = re.sub(r"[,.\s]+", "_", unicodedata.normalize("NFD", text)).lower()
+    soundpath = re.sub(r"[,./\s]+", "_", unicodedata.normalize("NFD", text)).lower()
     soundpath = re.sub(r"[̀-ͯ]", "", soundpath)
     soundpath = re.sub(r"[_.]+$", "", soundpath)
     return os.path.join(lang, f"{soundpath}.wav")
