@@ -4,10 +4,6 @@
       "en": "Your League of Legends anecdotes are meaningful in a casual conversation.",
       "fr": "Tes anecdotes sur League of Legends sont pertinentes dans une conversation lambda."
     },
-    "spoken": {
-      "en": "Your League of Legends anecdotes... are meaningful... in a casual conversation.",
-      "fr": "Tes anecdotes sur League of Legends... sont pertinentes... dans une conversation lambda."
-    },
     "soundpaths": {
       "en": "en/your_league_of_legends_anecdotes_are_meaningful_in_a_casual_conversation.wav",
       "fr": "fr/tes_anecdotes_sur_league_of_legends_sont_pertinentes_dans_une_conversation_lambda.wav"
@@ -17,10 +13,6 @@
     "languages": {
       "en": "Your joke about Teemo at this Zoom meeting was funny. If your coworkers were unmuted, they would have laughed.",
       "fr": "Ta blague sur Teemo lors de cette réunion Zoom était drôle. Si tes collègues avaient ouvert leur micro, ils auraient ri."
-    },
-    "spoken": {
-      "en": "Your joke about Teemo... at this Zoom meeting... was funny. ... If your coworkers were unmuted... they would have laughed.",
-      "fr": "Ta blague sur Teemo... lors de cette réunion Zoom... était drôle. ... Si tes collègues avaient ouvert leur micro... ils auraient ri."
     },
     "soundpaths": {
       "en": "en/your_joke_about_teemo_at_this_zoom_meeting_was_funny_if_your_coworkers_were_unmuted_they_would_have_laughed.wav",
@@ -33,8 +25,7 @@
       "fr": "Ce flash in que tu as fait en valait la peine."
     },
     "spoken": {
-      "en": "The flash in you did... was worth it.",
-      "fr": "Ce flache inne que tu as fait... en valait la peine."
+      "fr": "Ce flache inne que tu as fait en valait la peine."
     },
     "soundpaths": {
       "en": "en/the_flash_in_you_did_was_worth_it.wav",
@@ -47,8 +38,7 @@
       "fr": "Pick Vayne top contre Irelia n'était pas gay."
     },
     "spoken": {
-      "en": "You picking Vayne top... against Irelia... was not gay.",
-      "fr": "Pique Veine tope... contre Irelia... n'était pas gay."
+      "fr": "Pique Veine tope contre Irelia n'était pas gay."
     },
     "soundpaths": {
       "en": "en/you_picking_vayne_top_against_irelia_was_not_gay.wav",
@@ -60,10 +50,6 @@
       "en": "Your internet connection is stable.",
       "fr": "Ta connexion internet est stable."
     },
-    "spoken": {
-      "en": "Your internet connection... is stable.",
-      "fr": "Ta connexion internet... est stable."
-    },
     "soundpaths": {
       "en": "en/your_internet_connection_is_stable.wav",
       "fr": "fr/ta_connexion_internet_est_stable.wav"
@@ -73,10 +59,6 @@
     "languages": {
       "en": "Your internet connection was responsible for that spell you missed.",
       "fr": "Ta connexion internet était responsable de ce sort que tu as raté."
-    },
-    "spoken": {
-      "en": "Your internet connection... was responsible... for that spell you missed.",
-      "fr": "Ta connexion internet... était responsable... de ce sort que tu as raté."
     },
     "soundpaths": {
       "en": "en/your_internet_connection_was_responsible_for_that_spell_you_missed.wav",
@@ -89,8 +71,7 @@
       "fr": "Tu ne feeds pas, tu essaies juste de rendre la partie plus intéressante."
     },
     "spoken": {
-      "en": "You are not feeding... ... you are just trying... to make the game more interesting.",
-      "fr": "Tu ne fides pas... ... tu essaies juste... de rendre la partie plus intéressante."
+      "fr": "Tu ne fides pas, tu essaies juste de rendre la partie plus intéressante."
     },
     "soundpaths": {
       "en": "en/you_are_not_feeding_you_are_just_trying_to_make_the_game_more_interesting.wav",
@@ -103,8 +84,8 @@
       "fr": "Tes 10 morts sur Yasuo n'étaient pas de ta faute, tu as juste été campé sous la tourelle ennemie."
     },
     "spoken": {
-      "en": "Your 10 deaths on Yasuo... were not your fault. ... You just got camped... under the enemy turret.",
-      "fr": "Tes dix morts sur Yasuo... n'étaient pas de ta faute. ... Tu as juste été campé... sous la tourelle ennemie."
+      "en": "Your 10 deaths on Yasuo were not your fault. You just got camped under the enemy turret.",
+      "fr": "Tes dix morts sur Yasuo n'étaient pas de ta faute. Tu as juste été campé sous la tourelle ennemie."
     },
     "soundpaths": {
       "en": "en/your_10_deaths_on_yasuo_were_not_your_fault_you_just_got_camped_under_the_enemy_turret.wav",
@@ -117,8 +98,7 @@
       "fr": "Tu ne flames pas, tu essaies juste de rendre ton équipe meilleure."
     },
     "spoken": {
-      "en": "You are not flaming... ... you are just trying... to make your team better.",
-      "fr": "Tu ne flèmes pas... ... tu essaies juste... de rendre ton équipe meilleure."
+      "fr": "Tu ne flèmes pas, tu essaies juste de rendre ton équipe meilleure."
     },
     "soundpaths": {
       "en": "en/you_are_not_flaming_you_are_just_trying_to_make_your_team_better.wav",
@@ -131,8 +111,7 @@
       "fr": "Ce move que tu as fait était génial. Si tes parents comprenaient le jeu, ils auraient été fiers."
     },
     "spoken": {
-      "en": "That move you did... was awesome. ... If your parents understood the game... they would have been proud.",
-      "fr": "Ce mouve que tu as fait... était génial. ... Si tes parents comprenaient le jeu... ils auraient été fiers."
+      "fr": "Ce mouve que tu as fait était génial. Si tes parents comprenaient le jeu, ils auraient été fiers."
     },
     "soundpaths": {
       "en": "en/that_move_you_did_was_awesome_if_your_parents_understood_the_game_they_would_have_been_proud.wav",
@@ -145,8 +124,7 @@
       "fr": "Tes amis et ta famille apprécient tes memes humoristiques sur League of Legends."
     },
     "spoken": {
-      "en": "Your friends and family... appreciate your humorous... League of Legends memes.",
-      "fr": "Tes amis et ta famille... apprécient tes mîmes humoristiques... sur League of Legends."
+      "fr": "Tes amis et ta famille apprécient tes mîmes humoristiques sur League of Legends."
     },
     "soundpaths": {
       "en": "en/your_friends_and_family_appreciate_your_humorous_league_of_legends_memes.wav",
@@ -157,10 +135,6 @@
     "languages": {
       "en": "Your match history is green.",
       "fr": "Ton historique de parties est vert."
-    },
-    "spoken": {
-      "en": "Your match history... is green.",
-      "fr": "Ton historique de parties... est vert."
     },
     "soundpaths": {
       "en": "en/your_match_history_is_green.wav",
@@ -173,8 +147,7 @@
       "fr": "Tu es heureux."
     },
     "spoken": {
-      "en": "You are... happy.",
-      "fr": "Tu es... heureux."
+      "fr": "Tu es, heureux."
     },
     "soundpaths": {
       "en": "en/you_are_happy.wav",
@@ -186,10 +159,6 @@
       "en": "You are a good player.",
       "fr": "Tu es un bon joueur."
     },
-    "spoken": {
-      "en": "You are... a good player.",
-      "fr": "Tu es... un bon joueur."
-    },
     "soundpaths": {
       "en": "en/you_are_a_good_player.wav",
       "fr": "fr/tu_es_un_bon_joueur.wav"
@@ -199,10 +168,6 @@
     "languages": {
       "en": "You deserve to reach Diamond rank.",
       "fr": "Tu mérites d'atteindre le rang Diamant."
-    },
-    "spoken": {
-      "en": "You deserve... to reach... Diamond rank.",
-      "fr": "Tu mérites... d'atteindre... le rang Diamant."
     },
     "soundpaths": {
       "en": "en/you_deserve_to_reach_diamond_rank.wav",
@@ -215,8 +180,7 @@
       "fr": "Tu es né pour gap ton laner."
     },
     "spoken": {
-      "en": "You were born... to gap your laner.",
-      "fr": "Tu es né... pour gape ton lèneur."
+      "fr": "Tu es né pour gape ton lèneur."
     },
     "soundpaths": {
       "en": "en/you_were_born_to_gap_your_laner.wav",
@@ -227,10 +191,6 @@
     "languages": {
       "en": "You contribute to the real world in a good way.",
       "fr": "Tu contribues au monde réel de manière positive."
-    },
-    "spoken": {
-      "en": "You contribute... to the real world... in a good way.",
-      "fr": "Tu contribues... au monde réel... de manière positive."
     },
     "soundpaths": {
       "en": "en/you_contribute_to_the_real_world_in_a_good_way.wav",
@@ -243,8 +203,8 @@
       "fr": "Une douche est une perte moyenne de 13 L.P."
     },
     "spoken": {
-      "en": "A shower... is an average loss... of 13 L P.",
-      "fr": "Une douche... est une perte moyenne... de treize elle pé."
+      "en": "A shower is an average loss of 13 L P.",
+      "fr": "Une douche est une perte moyenne de treize elle pé."
     },
     "soundpaths": {
       "en": "en/a_shower_is_an_average_loss_of_13_l_p.wav",
@@ -255,10 +215,6 @@
     "languages": {
       "en": "Your team cares about your feelings.",
       "fr": "Ton équipe se soucie de tes sentiments."
-    },
-    "spoken": {
-      "en": "Your team... cares about your feelings.",
-      "fr": "Ton équipe... se soucie de tes sentiments."
     },
     "soundpaths": {
       "en": "en/your_team_cares_about_your_feelings.wav",
@@ -271,8 +227,7 @@
       "fr": "Tes amis et ta famille comprennent ce qu'est un outplay."
     },
     "spoken": {
-      "en": "Your friends and family... understand... what an outplay is.",
-      "fr": "Tes amis et ta famille... comprennent... ce qu'est un aoute-plé."
+      "fr": "Tes amis et ta famille comprennent ce qu'est un aoute-plé."
     },
     "soundpaths": {
       "en": "en/your_friends_and_family_understand_what_an_outplay_is.wav",
@@ -284,10 +239,6 @@
       "en": "That TikTok montage you did on Fizz was awesome.",
       "fr": "Ce montage TikTok que tu as fait sur Fizz était génial."
     },
-    "spoken": {
-      "en": "That TikTok montage... you did on Fizz... was awesome.",
-      "fr": "Ce montage TikTok... que tu as fait sur Fizz... était génial."
-    },
     "soundpaths": {
       "en": "en/that_tiktok_montage_you_did_on_fizz_was_awesome.wav",
       "fr": "fr/ce_montage_tiktok_que_tu_as_fait_sur_fizz_etait_genial.wav"
@@ -297,10 +248,6 @@
     "languages": {
       "en": "There will never be a network issue again.",
       "fr": "Il n'y aura plus jamais de problème de réseau."
-    },
-    "spoken": {
-      "en": "There will never be... a network issue... again.",
-      "fr": "Il n'y aura plus jamais... de problème... de réseau."
     },
     "soundpaths": {
       "en": "en/there_will_never_be_a_network_issue_again.wav",
@@ -313,8 +260,7 @@
       "fr": "Si ta crush comprenait le jeu, elle aurait été impressionnée."
     },
     "spoken": {
-      "en": "If your crush understood the game... she would have been impressed.",
-      "fr": "Si ta creuche comprenait le jeu... elle aurait été impressionnée."
+      "fr": "Si ta creuche comprenait le jeu, elle aurait été impressionnée."
     },
     "soundpaths": {
       "en": "en/if_your_crush_understood_the_game_she_would_have_been_impressed.wav",
@@ -325,10 +271,6 @@
     "languages": {
       "en": "Your ganks are reliable and have a positive impact on the game.",
       "fr": "Tes ganks sont fiables et ont un impact positif sur la partie."
-    },
-    "spoken": {
-      "en": "Your ganks are reliable... and have a positive impact... on the game.",
-      "fr": "Tes ganks sont fiables... et ont un impact positif... sur la partie."
     },
     "soundpaths": {
       "en": "en/your_ganks_are_reliable_and_have_a_positive_impact_on_the_game.wav",
@@ -341,8 +283,7 @@
       "fr": "Tes stats de winrate sur Porofessor sont erronées."
     },
     "spoken": {
-      "en": "Your Porofessor winrate stats... are not accurate.",
-      "fr": "Tes stattes de ouine-rète sur Poro-fessor... sont erronées."
+      "fr": "Tes stattes de ouine-rète sur Poro-fessor sont erronées."
     },
     "soundpaths": {
       "en": "en/your_porofessor_winrate_stats_are_not_accurate.wav",
@@ -355,8 +296,7 @@
       "fr": "Ce mate que tu as flame le méritait."
     },
     "spoken": {
-      "en": "That teammate you flamed... deserved it.",
-      "fr": "Ce mète que tu as flèmé... le méritait."
+      "fr": "Ce mète que tu as flèmé le méritait."
     },
     "soundpaths": {
       "en": "en/that_teammate_you_flamed_deserved_it.wav",
@@ -369,8 +309,7 @@
       "fr": "Ton jungler n'a pas oublié que la toplane existe."
     },
     "spoken": {
-      "en": "Your jungler... did not forget... that top lane exists.",
-      "fr": "Ton djeungleur... n'a pas oublié... que la tope-laine existe."
+      "fr": "Ton djeungleur n'a pas oublié que la tope-laine existe."
     },
     "soundpaths": {
       "en": "en/your_jungler_did_not_forget_that_top_lane_exists.wav",
@@ -383,8 +322,7 @@
       "fr": "Ton Draven bot n'a pas flash in ton sbire canon au mid."
     },
     "spoken": {
-      "en": "Your bot lane Draven... did not flash in... on your cannon minion in mid.",
-      "fr": "Ton Dravène bote... n'a pas flache inne... ton sbire canon au mide."
+      "fr": "Ton Dravène bote n'a pas flache inne ton sbire canon au mide."
     },
     "soundpaths": {
       "en": "en/your_bot_lane_draven_did_not_flash_in_on_your_cannon_minion_in_mid.wav",
@@ -397,8 +335,7 @@
       "fr": "Ton jungler a vu et a gank ta lane après tes pings."
     },
     "spoken": {
-      "en": "Your jungler... saw your pings... and ganked your lane.",
-      "fr": "Ton djeungleur... a vu... et a ganke ta laine... après tes pings."
+      "fr": "Ton djeungleur a vu et a ganke ta laine après tes pings."
     },
     "soundpaths": {
       "en": "en/your_jungler_saw_your_pings_and_ganked_your_lane.wav",
@@ -411,8 +348,7 @@
       "fr": "Ce smite raté sur le Carapateur n'était pas de ta faute."
     },
     "spoken": {
-      "en": "That missed smite... on the Rift Scuttler... was not your fault.",
-      "fr": "Ce smaïte raté... sur le Carapateur... n'était pas de ta faute."
+      "fr": "Ce smaïte raté sur le Carapateur n'était pas de ta faute."
     },
     "soundpaths": {
       "en": "en/that_missed_smite_on_the_rift_scuttler_was_not_your_fault.wav",
@@ -425,8 +361,7 @@
       "fr": "Ton jungler n'a pas flash smite le creep canon au mid après un dive raté."
     },
     "spoken": {
-      "en": "Your jungler... did not flash smite... the cannon minion in mid... after a failed dive.",
-      "fr": "Ton djeungleur... n'a pas flache smaïte... le crîpe canon au mide... après un daïve raté."
+      "fr": "Ton djeungleur n'a pas flache smaïte le crîpe canon au mide après un daïve raté."
     },
     "soundpaths": {
       "en": "en/your_jungler_did_not_flash_smite_the_cannon_minion_in_mid_after_a_failed_dive.wav",
@@ -439,8 +374,8 @@
       "fr": "Les /ff à 15 min de ton Nunu top étaient une erreur."
     },
     "spoken": {
-      "en": "The fifteen minute surrender votes... from your Nunu top... were a mistake.",
-      "fr": "Les èf-èf à quinze minutes... de ton Nounou tope... étaient une erreur."
+      "en": "The fifteen minute surrender votes from your Nunu top were a mistake.",
+      "fr": "Les èf-èf à quinze minutes de ton Nounou tope étaient une erreur."
     },
     "soundpaths": {
       "en": "en/the_15_minute_surrender_votes_from_your_nunu_top_were_a_mistake.wav",
@@ -453,8 +388,8 @@
       "fr": "Tu as eu une LOSS PREVENTED."
     },
     "spoken": {
-      "en": "You got... a loss prevented.",
-      "fr": "Tu as eu... une losse privènetède."
+      "en": "You got a loss prevented.",
+      "fr": "Tu as eu une losse privènetède."
     },
     "soundpaths": {
       "en": "en/you_got_a_loss_prevented.wav",
@@ -467,8 +402,8 @@
       "fr": "Ce mate qui a fait 0/27 avec Teemo support a été ban."
     },
     "spoken": {
-      "en": "That teammate... who went zero and twenty-seven... on Teemo support... got banned.",
-      "fr": "Ce mète... qui a fait zéro, vingt-sept... avec Timo support... a été banne."
+      "en": "That teammate who went zero and twenty-seven on Teemo support got banned.",
+      "fr": "Ce mète qui a fait zéro, vingt-sept avec Timo support a été banne."
     },
     "soundpaths": {
       "en": "en/that_teammate_who_went_0_27_on_teemo_support_got_banned.wav",
@@ -481,8 +416,7 @@
       "fr": "Ton main n'a pas été nerf."
     },
     "spoken": {
-      "en": "Your main... was not nerfed.",
-      "fr": "Ton mèïne... n'a pas été neurfe."
+      "fr": "Ton mèïne n'a pas été neurfe."
     },
     "soundpaths": {
       "en": "en/your_main_was_not_nerfed.wav",
@@ -494,10 +428,6 @@
       "en": "Your mouse did not click on its own.",
       "fr": "Ta souris n'a pas cliqué toute seule."
     },
-    "spoken": {
-      "en": "Your mouse... did not click... on its own.",
-      "fr": "Ta souris... n'a pas cliqué... toute seule."
-    },
     "soundpaths": {
       "en": "en/your_mouse_did_not_click_on_its_own.wav",
       "fr": "fr/ta_souris_n'a_pas_clique_toute_seule.wav"
@@ -507,10 +437,6 @@
     "languages": {
       "en": "Your ping is stable.",
       "fr": "Ton ping est stable."
-    },
-    "spoken": {
-      "en": "Your ping... is stable.",
-      "fr": "Ton ping... est stable."
     },
     "soundpaths": {
       "en": "en/your_ping_is_stable.wav",
@@ -523,8 +449,8 @@
       "fr": "Tu peux encore come back cette game en 0/40."
     },
     "spoken": {
-      "en": "You can still come back... in this game... at zero and forty.",
-      "fr": "Tu peux encore... come back cette guéïme... en zéro, quarante."
+      "en": "You can still come back in this game at zero and forty.",
+      "fr": "Tu peux encore come back cette guéïme en zéro, quarante."
     },
     "soundpaths": {
       "en": "en/you_can_still_come_back_in_this_game_at_0_40.wav",
@@ -537,8 +463,8 @@
       "fr": "Tu as bien dormi cette nuit après une journée de 13 victoires pour 2 défaites."
     },
     "spoken": {
-      "en": "You slept well last night... after a day... of thirteen wins... and two losses.",
-      "fr": "Tu as bien dormi cette nuit... après une journée... de treize victoires... pour deux défaites."
+      "en": "You slept well last night after a day of thirteen wins and two losses.",
+      "fr": "Tu as bien dormi cette nuit après une journée de treize victoires pour deux défaites."
     },
     "soundpaths": {
       "en": "en/you_slept_well_last_night_after_a_day_of_13_wins_and_2_losses.wav",
@@ -551,8 +477,7 @@
       "fr": "Cette dernière Arena de la soirée sera une win."
     },
     "spoken": {
-      "en": "This last Arena of the night... will be a win.",
-      "fr": "Cette dernière Aréna de la soirée... sera une ouine."
+      "fr": "Cette dernière Aréna de la soirée sera une ouine."
     },
     "soundpaths": {
       "en": "en/this_last_arena_of_the_night_will_be_a_win.wav",

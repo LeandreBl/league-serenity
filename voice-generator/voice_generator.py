@@ -9,12 +9,12 @@ import wave
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# ElevenLabs instant clone of build/sample.mp3 (voice "league-serenity").
-VOICE_ID = "7k53hL4G30o4usRJMDzN"
-MODEL_ID = "eleven_multilingual_v2"
+# ElevenLabs library voice "Eryn - Therapist" (calm, soothing).
+VOICE_ID = "WuBPEavIaQB56EnsGvFh"
+MODEL_ID = "eleven_v4"
 SAMPLE_RATE = 24000
-# A calm, soft, slow therapist: steady delivery, no added style, slowest speed.
-VOICE_SETTINGS = {"stability": 0.8, "similarity_boost": 0.75, "style": 0.0, "speed": 0.7}
+# A calm, soft therapist: steady delivery, no added style, a bit slow.
+VOICE_SETTINGS = {"stability": 0.75, "similarity_boost": 0.75, "style": 0.0, "speed": 0.85}
 
 
 def soundpath_of(text, lang):
