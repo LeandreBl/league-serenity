@@ -511,14 +511,11 @@
   {
     "languages": {
       "en": "Your game chat was kind. Nobody mentioned your mother.",
-      "fr": "Le chat de ta partie était bienveillant. Personne n'a mentionné ta mère."
-    },
-    "spoken": {
       "fr": "Le tchat de ta partie était bienveillant. Personne n'a mentionné ta mère."
     },
     "soundpaths": {
       "en": "en/your_game_chat_was_kind_nobody_mentioned_your_mother.wav",
-      "fr": "fr/le_chat_de_ta_partie_etait_bienveillant_personne_n'a_mentionne_ta_mere.wav"
+      "fr": "fr/le_tchat_de_ta_partie_etait_bienveillant_personne_n'a_mentionne_ta_mere.wav"
     }
   },
   {
