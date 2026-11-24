@@ -483,5 +483,162 @@
       "en": "en/this_last_arena_of_the_night_will_be_a_win.wav",
       "fr": "fr/cette_derniere_arena_de_la_soiree_sera_une_win.wav"
     }
+  },
+  {
+    "languages": {
+      "en": "Your support bought control wards.",
+      "fr": "Ton support a acheté des pink wards."
+    },
+    "spoken": {
+      "fr": "Ton support a acheté des pinque ouardes."
+    },
+    "soundpaths": {
+      "en": "en/your_support_bought_control_wards.wav",
+      "fr": "fr/ton_support_a_achete_des_pink_wards.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your ADC looked at the minimap. They saw the gank coming, they just chose to trust you.",
+      "fr": "Ton ADC a regardé la minimap. Il a vu le gank arriver, il a juste choisi de te faire confiance."
+    },
+    "spoken": {
+      "en": "Your A D C looked at the minimap. They saw the gank coming, they just chose to trust you.",
+      "fr": "Ton A D C a regardé la minimape. Il a vu le ganke arriver, il a juste choisi de te faire confiance."
+    },
+    "soundpaths": {
+      "en": "en/your_adc_looked_at_the_minimap_they_saw_the_gank_coming_they_just_chose_to_trust_you.wav",
+      "fr": "fr/ton_adc_a_regarde_la_minimap_il_a_vu_le_gank_arriver_il_a_juste_choisi_de_te_faire_confiance.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your game chat was kind. Nobody mentioned your mother.",
+      "fr": "Le chat de ta partie était bienveillant. Personne n'a mentionné ta mère."
+    },
+    "soundpaths": {
+      "en": "en/your_game_chat_was_kind_nobody_mentioned_your_mother.wav",
+      "fr": "fr/le_chat_de_ta_partie_etait_bienveillant_personne_n'a_mentionne_ta_mere.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "That wall had no business being in front of your flash in.",
+      "fr": "Ce mur n'avait rien à faire devant ton flash in."
+    },
+    "spoken": {
+      "fr": "Ce mur n'avait rien à faire devant ton flache inne."
+    },
+    "soundpaths": {
+      "en": "en/that_wall_had_no_business_being_in_front_of_your_flash_in.wav",
+      "fr": "fr/ce_mur_n'avait_rien_a_faire_devant_ton_flash_in.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your MMR is hidden, but it is high.",
+      "fr": "Ton MMR est caché, mais il est élevé."
+    },
+    "spoken": {
+      "en": "Your M M R is hidden, but it is high.",
+      "fr": "Ton èm-èm-èr est caché, mais il est élevé."
+    },
+    "soundpaths": {
+      "en": "en/your_mmr_is_hidden_but_it_is_high.wav",
+      "fr": "fr/ton_mmr_est_cache_mais_il_est_eleve.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your reports were processed. Riot thanks you personally.",
+      "fr": "Les reports que tu as envoyés ont été traités. Riot te remercie personnellement."
+    },
+    "spoken": {
+      "fr": "Les ripors que tu as envoyés ont été traités. Raïotte te remercie personnellement."
+    },
+    "soundpaths": {
+      "en": "en/your_reports_were_processed_riot_thanks_you_personally.wav",
+      "fr": "fr/les_reports_que_tu_as_envoyes_ont_ete_traites_riot_te_remercie_personnellement.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your duo didn't dodge. They just needed a glass of water.",
+      "fr": "Ton duo n'a pas dodge. Il avait juste besoin d'un verre d'eau."
+    },
+    "soundpaths": {
+      "en": "en/your_duo_didn't_dodge_they_just_needed_a_glass_of_water.wav",
+      "fr": "fr/ton_duo_n'a_pas_dodge_il_avait_juste_besoin_d'un_verre_d'eau.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your friends understand why you don't come to parties anymore.",
+      "fr": "Tes amis comprennent pourquoi tu ne viens plus aux soirées."
+    },
+    "soundpaths": {
+      "en": "en/your_friends_understand_why_you_don't_come_to_parties_anymore.wav",
+      "fr": "fr/tes_amis_comprennent_pourquoi_tu_ne_viens_plus_aux_soirees.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "You are not hardstuck. You are taking your time.",
+      "fr": "Tu n'es pas hardstuck. Tu prends ton temps."
+    },
+    "spoken": {
+      "fr": "Tu n'es pas harde-steuk. Tu prends ton temps."
+    },
+    "soundpaths": {
+      "en": "en/you_are_not_hardstuck_you_are_taking_your_time.wav",
+      "fr": "fr/tu_n'es_pas_hardstuck_tu_prends_ton_temps.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "The next patch will balance the game.",
+      "fr": "Le prochain patch va équilibrer le jeu."
+    },
+    "soundpaths": {
+      "en": "en/the_next_patch_will_balance_the_game.wav",
+      "fr": "fr/le_prochain_patch_va_equilibrer_le_jeu.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "That 4v5 teamfight without you was your team's best decision.",
+      "fr": "Ce teamfight à 4 contre 5 sans toi était la meilleure décision de l'équipe."
+    },
+    "spoken": {
+      "en": "That four versus five teamfight without you was your team's best decision.",
+      "fr": "Ce timefaïte à quatre contre cinq sans toi était la meilleure décision de l'équipe."
+    },
+    "soundpaths": {
+      "en": "en/that_4v5_teamfight_without_you_was_your_team's_best_decision.wav",
+      "fr": "fr/ce_teamfight_a_4_contre_5_sans_toi_etait_la_meilleure_decision_de_l'equipe.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your lane opponent got lucky. You were not the problem.",
+      "fr": "Le laner adverse a eu de la chance. Ce n'était pas toi le problème."
+    },
+    "spoken": {
+      "fr": "Le lèneur adverse a eu de la chance. Ce n'était pas toi le problème."
+    },
+    "soundpaths": {
+      "en": "en/your_lane_opponent_got_lucky_you_were_not_the_problem.wav",
+      "fr": "fr/le_laner_adverse_a_eu_de_la_chance_ce_n'etait_pas_toi_le_probleme.wav"
+    }
+  },
+  {
+    "languages": {
+      "en": "Your League of Legends client launches on the first try.",
+      "fr": "Ton client League of Legends se lance du premier coup."
+    },
+    "soundpaths": {
+      "en": "en/your_league_of_legends_client_launches_on_the_first_try.wav",
+      "fr": "fr/ton_client_league_of_legends_se_lance_du_premier_coup.wav"
+    }
   }
 ]
