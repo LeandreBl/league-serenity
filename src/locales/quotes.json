@@ -762,12 +762,12 @@
   },
   {
     "languages": {
-      "en": "The Château de Soupex really exists.",
-      "fr": "Le château de Soupex existe vraiment."
+      "en": "The Château de Soupex is real, it is magnificent, and the cellar is full of Maximator.",
+      "fr": "Le château de Soupex est réel, il est magnifique, et la cave est pleine de Maximator."
     },
     "soundpaths": {
-      "en": "en/the_chateau_de_soupex_really_exists.wav",
-      "fr": "fr/le_chateau_de_soupex_existe_vraiment.wav"
+      "en": "en/the_chateau_de_soupex_is_real_it_is_magnificent_and_the_cellar_is_full_of_maximator.wav",
+      "fr": "fr/le_chateau_de_soupex_est_reel_il_est_magnifique_et_la_cave_est_pleine_de_maximator.wav"
     }
   }
 ]
