@@ -13,6 +13,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 VOICE_ID = "7k53hL4G30o4usRJMDzN"
 MODEL_ID = "eleven_multilingual_v2"
 SAMPLE_RATE = 24000
+# A calm, soft, slow therapist: steady delivery, no added style, slowest speed.
+VOICE_SETTINGS = {"stability": 0.8, "similarity_boost": 0.75, "style": 0.0, "speed": 0.7}
 
 
 def soundpath_of(text, lang):
@@ -25,7 +27,7 @@ def soundpath_of(text, lang):
 def generate(key, voice, text, output_path):
     request = urllib.request.Request(
         f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=pcm_{SAMPLE_RATE}",
-        data=json.dumps({"text": text, "model_id": MODEL_ID}).encode(),
+        data=json.dumps({"text": text, "model_id": MODEL_ID, "voice_settings": VOICE_SETTINGS}).encode(),
         headers={"xi-api-key": key, "Content-Type": "application/json"},
     )
     with urllib.request.urlopen(request) as response:
